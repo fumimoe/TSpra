@@ -10,8 +10,11 @@
 // import  {isUserSignedIn2} from './fuction/parameters';
 // import  {isUserSignedIn,sumNumber,logMeeages6,logMeeages7} from './fuction/parameters';
 
-import {objectSample,human,indexsig} from './object/object';
-import {aliesSample} from './object/alies';
+// import {objectSample,human,indexsig} from './object/object';
+// import {aliesSample} from './object/alies';
+
+import {arryaSample} from './Array/arrya'
+import {tapleSample} from './Array/taple'
 
 // primitiveSample();
 // exit();
@@ -28,7 +31,10 @@ import {aliesSample} from './object/alies';
 // logMeeages6('signeth')
 // logMeeages7('dddddddddd')
 
-objectSample();
-human();
-indexsig();
-aliesSample();
+// objectSample();
+// human();
+// indexsig();
+// aliesSample();
+
+arryaSample();
+tapleSample();
