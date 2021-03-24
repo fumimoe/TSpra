@@ -53,10 +53,15 @@
 // anySample();
 // unknownSample();
 
-import {logMeesage} from './fuction/parameters'
+// import {logMeesage} from './fuction/parameters'
 // isUserSignedIn(1,'takeda');
 // isUserSignedIn(2,);
 
 // isUserSignedIn2(1)
 // isUserSignedIn2(1,'yamada')
-logMeesage('おはよう')
+// logMeesage('おはよう')
+// import {indexsig} from './object/object'
+// indexsig()
+
+import {aliesSample} from './object/alies';
+aliesSample();

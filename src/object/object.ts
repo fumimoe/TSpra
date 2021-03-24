@@ -35,7 +35,7 @@ export const human = () => {
     }
     console.log(person);
 
-    person.gender = 'male'
+    // person.firstName = 'male'
     person.lastName = 'masa'
     
 
@@ -51,7 +51,7 @@ export const indexsig = () => {
         [countryName:string]:string
     }
     capitals = {
-        2 : 'fuji',
+        japan : 'fuji',
         usa : 'mount' 
     }
 
