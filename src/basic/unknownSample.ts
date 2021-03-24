@@ -12,6 +12,7 @@ const unknownSample = () => {
    //    const sum = number + 109
 
    if(typeof number === 'number'){
+      // 数値型と指定することでnumberを使用することができる
         const sum = number + 10
         console.log(sum)
    }

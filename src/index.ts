@@ -13,8 +13,11 @@
 // import {objectSample,human,indexsig} from './object/object';
 // import {aliesSample} from './object/alies';
 
-import {arryaSample} from './Array/arrya'
-import {tapleSample} from './Array/taple'
+// import {arryaSample} from './Array/arrya'
+// import {tapleSample} from './Array/taple'
+
+import {genelicsSample} from './generics/basic';
+import {advanceSample} from './generics/advance';
 
 // primitiveSample();
 // exit();
@@ -36,5 +39,8 @@ import {tapleSample} from './Array/taple'
 // indexsig();
 // aliesSample();
 
-arryaSample();
-tapleSample();
+// arryaSample();
+// tapleSample();
+
+genelicsSample();
+advanceSample()

@@ -10,3 +10,7 @@ const any = () => {
  
  export default any
  
+
+//  anyとunkownの違い
+// anyはどんな型も許容する
+// unkownは代入された値によって型が変わる
