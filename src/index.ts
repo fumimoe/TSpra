@@ -16,8 +16,12 @@
 // import {arryaSample} from './Array/arrya'
 // import {tapleSample} from './Array/taple'
 
-import {genelicsSample} from './generics/basic';
-import {advanceSample} from './generics/advance';
+// import {genelicsSample} from './generics/basic';
+// import {advanceSample} from './generics/advance';
+
+
+// import {anySample} from './basic/any'
+// import {unknownSample} from './basic/unknownSample'
 
 // primitiveSample();
 // exit();
@@ -42,5 +46,17 @@ import {advanceSample} from './generics/advance';
 // arryaSample();
 // tapleSample();
 
-genelicsSample();
-advanceSample()
+// genelicsSample();
+// advanceSample()
+
+
+// anySample();
+// unknownSample();
+
+import {logMeesage} from './fuction/parameters'
+// isUserSignedIn(1,'takeda');
+// isUserSignedIn(2,);
+
+// isUserSignedIn2(1)
+// isUserSignedIn2(1,'yamada')
+logMeesage('おはよう')
